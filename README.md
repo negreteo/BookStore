@@ -42,4 +42,4 @@ The status code is returned in the result of the API. When the client makes a re
 **403 — Forbidden**: This status means that the client is authenticated but he does not have permission to do what he is trying to do. Unlike 401, the client’s identity is known to the server.\
 **404 — Not found**: This status means that the server could not find the requested resource.\
 **500 — Internal Server Error**: This is a generic answer from REST API, it means that the server has encountered a situation it doesn’t know how to handle.\
-**503 — Service Unavailable**: This status means that the server is not ready to handle the request.\
+**503 — Service Unavailable**: This status means that the server is not ready to handle the request.
